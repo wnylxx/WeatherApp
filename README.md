@@ -14,7 +14,8 @@ iPhone의 기본 "날씨"앱 클론 코딩을 목표로 진행하였습니다.
 5일간 3시간 간격의 데이터를 받아오는 Forecast API
 
 ## 프로젝트 소개
-<img src = "https://github.com/wnylxx/WeatherApp/assets/105417766/5f4e67b4-c13a-4ce7-b45b-37a523b48d9a" width="200" height="400"/> <br/>
+<p align="center">
+<img src = "https://github.com/wnylxx/WeatherApp/assets/105417766/5f4e67b4-c13a-4ce7-b45b-37a523b48d9a" width="200" height="400"/> <p/> <br/>
 앱 사용동안 사용자의 위치를 받아와 사용자의 위치에 맞는 도시의 현재온도와 5일간의 날씨를 불러온다.
 
 ## 팀원 소개
